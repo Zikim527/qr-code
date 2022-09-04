@@ -1,0 +1,29 @@
+body{
+    background-color: lightblue;
+}
+div {
+    background-color: mistyrose;
+    height: 390px;
+    width: 240px;
+    border-radius: 5%;
+    justify-self: center;
+    margin-top: 150px;
+    margin-left: 550px;
+    padding: 10px;
+
+}
+img{
+    width: 220px;
+    height: 220px;
+    margin-left: 10px;
+    margin-top: 10%;
+    border-radius: 5%;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+.button{
+    border-radius: 5%;
+    background-color: red;
+    text-align: center;
+    justify-content: center;
+}
